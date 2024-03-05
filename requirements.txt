@@ -1,0 +1,13 @@
+numpy
+pandas 
+os
+torch
+torchvision
+torch.nn as nn 
+torchvision.datasets
+torchvision.transforms 
+torch.nn.functional
+torch.utils.data
+torchvision.datasets
+torch.optim
+PIL
